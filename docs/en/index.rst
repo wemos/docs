@@ -9,9 +9,9 @@ WEMOS Docs
    D1 mini Shileds <d1_mini_shiled/index>
    D32 <d32/index>
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
