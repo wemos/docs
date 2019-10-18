@@ -9,6 +9,13 @@ WEMOS Docs
    D1 mini Shileds <d1_mini_shiled/index>
    D32 <d32/index>
 
+.. toctree::
+   :hidden:
+   :caption: Tutorials:
+
+   Arduino <d1/index>
+   MicroPython <d1/index>
+
 .. Indices and tables
 .. ==================
 
