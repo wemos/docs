@@ -13,8 +13,7 @@ WEMOS Docs
    :hidden:
    :caption: Tutorials:
 
-   Arduino <d1/index>
-   MicroPython <d1/index>
+   Tutorials <tutorials/index>
 
 .. Indices and tables
 .. ==================

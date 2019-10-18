@@ -12,7 +12,11 @@ LOLIN D1 mini
 .. _BOTTOM_IMG: ../_static/d1_mini_v3.1.0_2_16x16.jpg
 
 
+.. .. raw:: html
 
+..     <div style="text-align: center; margin-bottom: 2em;">
+..     <iframe width="100%" height="350" src="https://www.youtube.com/embed/oJsUvBQyHBs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+..     </div>
 
 
 A mini wifi board with 4MB flash based on ESP-8266EX.
@@ -28,8 +32,8 @@ Features
 
 Tutorials
 ----------------------
-  * Get started in MicroPython
-  * Get started in Arduino
+  * :doc:`../tutorials/micropython`
+  * :doc:`../tutorials/arduino`
 
 Documentation
 ----------------------
@@ -91,6 +95,8 @@ Pin
 +------+------------------------------+--------------+
 | RST  | Reset                        | RST          |
 +------+------------------------------+--------------+
+
+.. note:: All of the IO pins run at 3.3V.
 
 Version
 ----------------------
