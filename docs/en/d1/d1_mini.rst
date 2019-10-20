@@ -5,11 +5,11 @@ LOLIN D1 mini
  |TOP_IMG|_           |BOTTOM_IMG|_  
 ==================  ==================
 
-.. |TOP_IMG| image:: ../_static/d1_mini_v3.1.0_1_16x16.jpg
-.. _TOP_IMG: ../_static/d1_mini_v3.1.0_1_16x16.jpg
+.. |TOP_IMG| image:: ../_static/boards/d1_mini_v3.1.0_1_16x16.jpg
+.. _TOP_IMG: ../_static/boards/d1_mini_v3.1.0_1_16x16.jpg
 
-.. |BOTTOM_IMG| image:: ../_static/d1_mini_v3.1.0_2_16x16.jpg
-.. _BOTTOM_IMG: ../_static/d1_mini_v3.1.0_2_16x16.jpg
+.. |BOTTOM_IMG| image:: ../_static/boards/d1_mini_v3.1.0_2_16x16.jpg
+.. _BOTTOM_IMG: ../_static/boards/d1_mini_v3.1.0_2_16x16.jpg
 
 
 .. .. raw:: html
@@ -37,8 +37,8 @@ Tutorials
 
 Documentation
 ----------------------
-  * Schematic V3.0.0
-  * Driver
+  * Schematic V3.1.0
+  * :doc:`../ch340_driver`
 
 Technical specs
 ----------------------
