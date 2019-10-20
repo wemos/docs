@@ -37,8 +37,8 @@ Tutorials
 
 Documentation
 ----------------------
-  * Schematic V2.0.0
-  * Dimension V2.0.0
+  * `Schematic V2.0.0[PDF] <../_static/files/sch_d1_mini_pro_v2.0.0.pdf>`_
+  * `Dimension V2.0.0[PDF] <../_static/files/dim_d1_mini_pro_v2.0.0.pdf>`_
   * :doc:`../ch340_driver`
 
 Technical specs

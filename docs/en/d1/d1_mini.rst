@@ -37,7 +37,7 @@ Tutorials
 
 Documentation
 ----------------------
-  * Schematic V3.1.0
+  * `Schematic V3.1.0[PDF] <../_static/files/sch_d1_mini_v3.0.0.pdf>`_
   * :doc:`../ch340_driver`
 
 Technical specs
