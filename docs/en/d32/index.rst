@@ -15,10 +15,10 @@ D32 Boards
  |D32_IMG|_           |D32_PRO_IMG|_  
 ==================  ==================
 
-.. |D32_IMG| image:: ../_static/boards/d32_V1.0.0_1_16x16.jpg
+.. |D32_IMG| image:: ../_static/boards/d32_v1.0.0_1_16x16.jpg
 .. _D32_IMG: ./d32.html
 
-.. |D32_PRO_IMG| image:: ../_static/boards/d32_pro_V2.0.0_1_16x16.jpg
+.. |D32_PRO_IMG| image:: ../_static/boards/d32_pro_v2.0.0_1_16x16.jpg
 .. _D32_PRO_IMG: ./d32_pro.html
 
 
