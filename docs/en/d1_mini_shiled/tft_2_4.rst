@@ -30,17 +30,17 @@ Features
 Pins
 ---------------------
 
-=================    =================
-**D1 mini**          **Shield**
-NC*(D1/D2/D3/D4)     TFT_LED
-RST*(D1/D3/D4))      TFT_RST
-D8                   TFT_DC
-D7                   MOSI
-D6                   MISO
-D5                   SCK
-D0                   TFT_CS
-D3*(D1/D2/D4)        TS_CS
-=================    =================
+=================    =================    =================
+**D1 mini**          **GPIO**             **Shield**
+NC*(D1/D2/D3/D4)     NC*(5/4/0/2)         TFT_LED
+RST*(D1/D3/D4))      RST*(5/0/2)          TFT_RST
+D8                   15                   TFT_DC
+D7                   13                   MOSI
+D6                   12                   MISO
+D5                   14                   SCK
+D0                   16                   TFT_CS
+D3*(D1/D2/D4)        0*(5/4/2)            TS_CS
+=================    =================    =================
 
 *\* - default*
 

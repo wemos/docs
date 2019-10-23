@@ -21,7 +21,7 @@ Pins
 
 ===========    ===========
 **D1 mini**    **Shield**
-D3             Button
+D3(GPIO0)      Button
 ===========    ===========
 
 Arduino Code
