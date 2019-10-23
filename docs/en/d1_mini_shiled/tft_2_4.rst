@@ -48,13 +48,27 @@ D3*(D1/D2/D4)        TS_CS
 Documents
 -----------------------
 
-  * `Get started with TFT 2.4 Touch Shield`_
   * `Schematic v1.0.0 [PDF]`_
   * `Dimension v1.0.0 [JPG]`_
 
-.. _Get started with TFT 2.4 Touch Shield: ./
 .. _Schematic v1.0.0 [PDF]: ../_static/files/sch_tft2.4_v1.0.0.pdf
 .. _Dimension v1.0.0 [JPG]: ../_static/files/tft_2.4_v1.0.0_5_16x9.jpg
+
+Arduino
+------------------------
+
+  * Setup latest `Adafruit_GFX`_, `Adafruit_ILI9341`_ and `XPT2046_Touchscreen`_ Library
+  * `Arduino Examples`_
+
+.. note:: Make sure you using lastest `ESP8266 core`_ for Arduino.
+
+.. _ESP8266 core: https://github.com/esp8266/Arduino
+
+.. _Adafruit_GFX: https://github.com/adafruit/Adafruit-GFX-Library
+.. _Adafruit_ILI9341: https://github.com/adafruit/Adafruit_ILI9341
+.. _XPT2046_Touchscreen: https://github.com/PaulStoffregen/XPT2046_Touchscreen
+.. _Arduino Examples: https://github.com/wemos/D1_mini_Examples/tree/master/examples/04.Shields/TFT_2.4_Touch_Shield
+
 
    
 
