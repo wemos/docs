@@ -17,22 +17,35 @@ Display&Interactive Shields
    RGB LED <rgb_led>
    Buzzer <buzzer>
    1-button <1_button>
+   Micro SD <micro_sd>
+   Matrix LED <matrix_led>
+   TFT 1.4 <tft_1_4>
 
 ====================  ====================  ====================
 `TFT-2.4`_            `ePaper 2.13`_        `OLED 0.66`_
 |TFT_2.4_IMG|_        |EPD_2.13_IMG|_       |OLED_0.66_IMG|_
-`RGB LED`_            Buzzer                `1-BUTTON`_
+`RGB LED`_            `Buzzer`_             `1-BUTTON`_
 |RGB_LED_IMG|_        |BUZZER_IMG|_         |1_BUTTON_IMG|_ 
-Micro SD              Matrix LED            TFT-1.44
+`Micro SD`_           `Matrix LED`_         `TFT-1.4`_
+|MICRO_SD_IMG|_       |MATRIX_LED_IMG|_     |TFT_1.4_IMG|_
 ====================  ====================  ====================
 
 
+.. _Micro SD: ./micro_sd.html
+.. |MICRO_SD_IMG| image:: ../_static/d1_shields/sd_v1.2.0_1_16x16.jpg
+.. _MICRO_SD_IMG: ./micro_sd.html
 
-
+.. _Matrix LED: ./matrix_led.html
+.. |MATRIX_LED_IMG| image:: ../_static/d1_shields/matrix_led_v1.0.0_1_16x16.jpg
+.. _MATRIX_LED_IMG: ./matrix_led.html
 
 .. _TFT-2.4: ./tft_2_4.html
 .. |TFT_2.4_IMG| image:: ../_static/d1_shields/tft_2.4_v1.0.0_1_16x16.jpg
 .. _TFT_2.4_IMG: ./tft_2_4.html
+
+.. _TFT-1.4: ./tft_1_4.html
+.. |TFT_1.4_IMG| image:: ../_static/d1_shields/tft_1.44_v1.0.0_1_16x16.jpg
+.. _TFT_1.4_IMG: ./tft_1_4.html
 
 .. _ePaper 2.13: ./epd_2_13.html
 .. |EPD_2.13_IMG| image:: ../_static/d1_shields/epd_2.13_v1.0.0_1_16x16.jpg
@@ -49,8 +62,6 @@ Micro SD              Matrix LED            TFT-1.44
 .. _Buzzer: ./buzzer.html
 .. |BUZZER_IMG| image:: ../_static/d1_shields/buzzer_v1.0.0_1_16x16.jpg
 .. _BUZZER_IMG: ./buzzer.html
-
-
 
 .. _1-BUTTON: ./1_button.html
 .. |1_BUTTON_IMG| image:: ../_static/d1_shields/button_v2.1.0_1_16x16.jpg
