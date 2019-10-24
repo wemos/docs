@@ -109,9 +109,25 @@ Environment Shields
 Power Shields
 -----------------------------------
 
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   
+   Battery <battery>
+   DC Power <dc_power>
+
 ====================  ====================  ====================
-Battery               DC Power          
+`Battery`_            `DC Power`_
+|BATTERY_IMG|_        |DC_POWER_IMG|_          
 ====================  ====================  ====================
+
+.. _Battery: ./battery.html
+.. |BATTERY_IMG| image:: ../_static/d1_shields/battery_v1.3.0_1_16x16.jpg
+.. _BATTERY_IMG: ./battery.html
+
+.. _DC Power: ./dc_power.html
+.. |DC_POWER_IMG| image:: ../_static/d1_shields/dc_v1.1.0_1_16x16.jpg
+.. _DC_POWER_IMG: ./dc_power.html
 
 Control Shields
 -----------------------------------
