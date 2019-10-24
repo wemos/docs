@@ -16,6 +16,12 @@ WEMOS Docs
 
    Tutorials <tutorials/index>
 
+.. toctree::
+   :hidden:
+   :caption: Downloads:
+
+   CH340 driver <ch340_driver>
+
 .. Indices and tables
 .. ==================
 
