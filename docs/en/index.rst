@@ -45,3 +45,12 @@ Boards
 .. _SHT30_IMG: ./d1_mini_shiled/index.html
 
 .. _W600: w600/index.html
+
+
+wiki
+-------------------
+
+  * `wiki`_ 
+
+.. _wiki: https://wiki.wemos.cc
+
