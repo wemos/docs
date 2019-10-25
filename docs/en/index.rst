@@ -18,9 +18,10 @@ HOME
 
 .. toctree::
    :hidden:
-   :caption: Downloads:
+   :caption: Links:
 
    CH340 driver <ch340_driver>
+   Online Shop <https://lolin.aliexpress.com>
 
 
 Boards
