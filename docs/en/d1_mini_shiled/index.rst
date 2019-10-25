@@ -135,9 +135,31 @@ Power Shields
 Control Shields
 -----------------------------------
 
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   Relay <relay>
+   IR Controller <ir>
+   Motor <motor>
+   
+
 ====================  ====================  ====================
-Relay                 IR Controller         Motor         
+`Relay`_              `IR Controller`_      `Motor`_
+|RELAY_IMG|_          |IR_IMG|_             |MOTOR_IMG|_
 ====================  ====================  ====================
+
+.. _Relay: ./relay.html
+.. |RELAY_IMG| image:: ../_static/d1_shields/relay_v2.0.0_1_16x16.jpg
+.. _RELAY_IMG: ./relay.html
+
+.. _IR Controller: ./ir.html
+.. |IR_IMG| image:: ../_static/d1_shields/ir_v1.0.0_1_16x16.jpg
+.. _IR_IMG: ./ir.html
+
+.. _Motor: ./motor.html
+.. |MOTOR_IMG| image:: ../_static/d1_shields/motor_v2.0.0_1_16x16.jpg
+.. _MOTOR_IMG: ./motor.html
 
 
 Others
