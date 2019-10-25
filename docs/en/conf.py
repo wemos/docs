@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'WEMOS Docs'
+project = 'WEMOS'
 copyright = '2019, wemos.cc'
 author = 'wemos.cc'
 
