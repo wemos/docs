@@ -165,12 +165,38 @@ Control Shields
 Others
 -----------------------------------
 
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   ProtoBoard <protoboard>
+   Dual Base <dual_base>
+   Tripler Base <tripler_base>
+   TFT&I2C Connector <tft_i2c_connector>
+
 ====================  ====================  ====================
-ProtoBoard             Dual Base            Tripler Base
-TFT I2C Connector         
+`ProtoBoard`_         `Dual Base`_          `Tripler Base`_
+|PROTOBOARD_IMG|_     |DUAL_BASE_IMG|_      |TRIPLER_IMG|_
+`TFT I2C Con`_   
+|TFT_I2C_CON_IMG|_      
 ====================  ====================  ====================
 
 
+.. _ProtoBoard: ./protoboard.html
+.. |PROTOBOARD_IMG| image:: ../_static/d1_shields/protoboard_v1.0.0_1_16x16.jpg
+.. _PROTOBOARD_IMG: ./protoboard.html
+
+.. _Dual Base: ./dual_base.html
+.. |DUAL_BASE_IMG| image:: ../_static/d1_shields/dual_base_v2.0.0_1_16x16.jpg
+.. _DUAL_BASE_IMG: ./dual_base.html
+
+.. _Tripler Base: ./tripler_base.html
+.. |TRIPLER_IMG| image:: ../_static/d1_shields/tripler_base_V1.0.0_1_16x16.jpg
+.. _TRIPLER_IMG: ./tripler_base.html
+
+.. _TFT I2C Con: ./tft_i2c_connector.html
+.. |TFT_I2C_CON_IMG| image:: ../_static/d1_shields/tft_i2c_con_v1.1.0_1_16x16.jpg
+.. _TFT_I2C_CON_IMG: ./tft_i2c_connector.html
 
 
    
