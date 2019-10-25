@@ -81,16 +81,14 @@ Environment Shields
    PIR <pir>
    Ambient light (BH1750) <ambient_light>
    Barometric Pressure (HP303B) <barometric_pressure>
+   DHT <dht>
 
 ======================  ======================  ======================
 `SHT30`_                `Barometric Pressure`_  `Ambient light`_
 |SHT30_IMG|_            |HP303B_IMG|_           |BH1750_IMG|_
-`PIR`_ 
-|PIR_IMG|_ 
+`PIR`_                  `DHT`_
+|PIR_IMG|_              |DHT_IMG|_
 ======================  ======================  ======================
-
-
-
 
 .. _SHT30: ./sht30.html
 .. |SHT30_IMG| image:: ../_static/d1_shields/sht30_v2.1.0_1_16x16.jpg
@@ -107,6 +105,10 @@ Environment Shields
 .. _Barometric Pressure: ./barometric_pressure.html
 .. |HP303B_IMG| image:: ../_static/d1_shields/hp303b_v1.0.0_1_16x16.jpg
 .. _HP303B_IMG: ./barometric_pressure.html
+
+.. _DHT: ./dht.html
+.. |DHT_IMG| image:: ../_static/d1_shields/dht_v3.0.0_1_16x16.jpg
+.. _DHT_IMG: ./dht.html
 
 
 Power Shields
