@@ -21,9 +21,13 @@ Requirements
 Flash firmware
 ************************
 
-.. prompt:: bash $
+.. highlight:: bash
+
+::
 
   w600tool.py -p PORT_NAME --upload-baud 2000000 --upload FIRMWARE.fls
+
+
 
 .. note::  
   Don't forget to change **PORT_NAME** and **FIRMWARE.fls**.

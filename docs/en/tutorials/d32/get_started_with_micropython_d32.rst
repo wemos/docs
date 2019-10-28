@@ -22,7 +22,9 @@ Requirements
 Flash firmware
 ************************
 
-.. prompt:: bash $
+.. highlight:: bash
+
+::
 
     esptool.py --port PORT_NAME erase_flash
     esptool.py --port PORT_NAME --baud 1000000 write_flash -z 0x1000 FIRMWARE.bin
