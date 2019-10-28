@@ -1,6 +1,4 @@
-sphinx==1.7.9
+sphinx
 sphinx-rtd-theme
-breathe
-nbsphinx
 sphinx-notfound-page
 
