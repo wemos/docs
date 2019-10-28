@@ -18,7 +18,7 @@ Features
 
 Tutorials
 ----------------------
-  * :doc:`../tutorials/micropython`
+  * :doc:`../tutorials/w600/get_started_with_micropython_w600`
 
 ..   * :doc:`../tutorials/arduino`
 
