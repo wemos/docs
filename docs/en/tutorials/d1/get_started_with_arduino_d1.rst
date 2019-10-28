@@ -13,5 +13,5 @@ Installing Hardware package
 
 Configure Board
 -------------------
-After install hardware package, you will see WEMOS boards in the Tools→Board:xxx Choose your right board.
+After install hardware package, you will see LOLIN D1 boards in the Tools→Board:xxx Choose your right board.
 

@@ -13,5 +13,11 @@ Installing Hardware package
 
 Configure Board
 -------------------
-After install hardware package, you will see WEMOS boards in the Tools→Board:xxx Choose your right board.
+After install hardware package, you will see LOLIN D32 boards in the Tools→Board:xxx Choose your right board.
+
+
+Documentation
+-------------------------
+
+  * `ESP8266 Arduino Core’s documentation <https://arduino-esp8266.readthedocs.io/en/latest/>`_
 

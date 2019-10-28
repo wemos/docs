@@ -10,14 +10,12 @@ HOME
    D32 <d32/index>
    W600 <w600/index>
 
-.. toctree::
-   :hidden:
+
    :caption: Tutorials:
 
    Tutorials <tutorials/index>
 
-.. toctree::
-   :hidden:
+
    :caption: Links:
 
    Online Shop <https://lolin.aliexpress.com>
