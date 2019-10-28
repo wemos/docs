@@ -30,8 +30,8 @@ Features
 
 Tutorials
 ----------------------
-  * :doc:`../tutorials/micropython`
-  * :doc:`../tutorials/arduino`
+  * :doc:`../tutorials/d1/get_started_with_micropython_d1`
+  * :doc:`../tutorials/d1/get_started_with_arduino_d1`
 
 Documentation
 ----------------------

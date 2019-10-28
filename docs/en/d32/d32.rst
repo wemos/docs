@@ -25,8 +25,8 @@ Features
 
 Tutorials
 ----------------------
-  * :doc:`../tutorials/micropython`
-  * :doc:`../tutorials/arduino`
+  * :doc:`../tutorials/d32/get_started_with_micropython_d32`
+  * :doc:`../tutorials/d32/get_started_with_arduino_d32`
 
 Documentation
 ----------------------
