@@ -5,5 +5,7 @@ Page not Found
 
 .. note::
 
-    We're sorry. The page you requested could not be found.
+    We're sorry. The page you requested could not be found. `[Home Page]`_
+
+.. _[Home Page]: https://www.wemos.cc
 
