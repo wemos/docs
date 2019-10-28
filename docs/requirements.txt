@@ -1,4 +1,5 @@
 sphinx
 sphinxcontrib-httpdomain
 sphinx-prompt
+sphinx-notfound-page
 
