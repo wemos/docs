@@ -14,6 +14,13 @@ Requirements
   * :doc:`../../ch340_driver`
   * `Python <https://www.python.org/downloads/>`_
   * `w600tool <https://github.com/wemos/w600tool>`_ (for flash w600 firmware)
+    
+    .. highlight:: bash
+
+    ::
+
+      pip install w600tool
+
   * `Micropython firmware v1.10 <http://www.winnermicro.com/upload/1/editor/1568709203932.zip>`_
 
 
@@ -25,7 +32,7 @@ Flash firmware
 
 ::
 
-  w600tool.py -p PORT_NAME --upload-baud 2000000 --upload FIRMWARE.fls
+  w600tool.py -p PORT_NAME -u FIRMWARE.fls
 
 
 

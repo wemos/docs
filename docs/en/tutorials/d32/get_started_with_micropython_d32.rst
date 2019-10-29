@@ -14,6 +14,13 @@ Requirements
   * :doc:`../../ch340_driver`
   * `Python <https://www.python.org/downloads/>`_
   * `esptool <https://github.com/espressif/esptool>`_ (for flash esp8266&esp32 firmware.)
+      
+    .. highlight:: bash
+
+    ::
+
+      pip install esptool
+      
   * `Micropython firmware <https://micropython.org/download#esp32>`_ (esp32)
 
   .. note::
