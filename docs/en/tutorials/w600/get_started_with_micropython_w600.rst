@@ -5,14 +5,14 @@ Flash MicroPython firmware
 ----------------------------
 
 The boards were already flashed micropython firmware.
-If they lost firmware or you need lasted firmware, 
+If they lost firmware or you need lastest firmware, 
 you can flash MicroPython firmware by yourself.
 
 Requirements
 ************************
 
   * :doc:`../../ch340_driver`
-  * `Python <https://www.python.org/downloads/>`_
+  * `Python 3.7 or newer  <https://www.python.org/downloads/>`_
   * `w600tool <https://github.com/wemos/w600tool>`_ (for flash w600 firmware)
     
     .. highlight:: bash
