@@ -30,6 +30,7 @@ Boards
 `D1`_               `D32`_              `D1 mini shileds`_
  |D1_MINI_IMG|_     |D32_PRO_IMG|_      |SHT30_IMG|_  
 `W600`_
+|W600_PICO_IMG|_
 =================== =================== ===================
 
 .. _D1: ./d1/index.html
@@ -44,8 +45,9 @@ Boards
 .. |SHT30_IMG| image:: ./_static/d1_shields/sht30_v2.1.0_1_16x16.jpg
 .. _SHT30_IMG: ./d1_mini_shiled/index.html
 
-.. _W600: w600/index.html
-
+.. _W600: ./w600/index.html
+.. |W600_PICO_IMG| image:: ./_static/boards/w600_pico_v1.0.0_1_16x16.jpg
+.. _W600_PICO_IMG: ./w600/index.html
 
 wiki
 -------------------
