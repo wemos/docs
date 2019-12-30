@@ -31,7 +31,7 @@ Flash firmware
 ::
 
     esptool.py --port PORT_NAME erase_flash
-    esptool.py --port PORT_NAME --baud 1000000 write_flash --flash_size=4MB -fm qio 0 FIRMWARE.bin  
+    esptool.py --port PORT_NAME --baud 1000000 write_flash --flash_size=4MB -fm dio 0 FIRMWARE.bin  
 
 .. note::  
   Don't forget to change **PORT_NAME** and **FIRMWARE.bin**.
