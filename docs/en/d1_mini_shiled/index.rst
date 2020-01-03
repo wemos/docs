@@ -86,8 +86,8 @@ Environment Shields
 ======================  ======================  ======================
 `SHT30`_                `Barometric Pressure`_  `Ambient light`_
 |SHT30_IMG|_            |HP303B_IMG|_           |BH1750_IMG|_
-`PIR`_                  `DHT`_
-|PIR_IMG|_              |DHT_IMG|_
+`PIR`_                  `DHT`_                  `SGP30`_
+|PIR_IMG|_              |DHT_IMG|_              |SGP30_IMG|_
 ======================  ======================  ======================
 
 .. _SHT30: ./sht30.html
@@ -110,6 +110,9 @@ Environment Shields
 .. |DHT_IMG| image:: ../_static/d1_shields/dht_v3.0.0_1_16x16.jpg
 .. _DHT_IMG: ./dht.html
 
+.. _SGP30: ./sgp30.html
+.. |SGP30_IMG| image:: ../_static/d1_shields/sgp30_v1.0.0_1_16x16.jpg
+.. _SGP30_IMG: ./sgp30.html
 
 Power Shields
 -----------------------------------
