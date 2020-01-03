@@ -45,7 +45,7 @@ Documents
 
 
 .. _Schematic v1.0.0 [PDF]: ../_static/files/sch_sgp30_v1.0.0.pdf
-.. _GSP30 Datasheet [PDF]: https://www.sensirion.com/file/datasheet_sgp30/
+.. _SGP30 Datasheet [PDF]: https://www.sensirion.com/file/datasheet_sgp30/
 
 
 
