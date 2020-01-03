@@ -82,6 +82,7 @@ Environment Shields
    Ambient light (BH1750) <ambient_light>
    Barometric Pressure (HP303B) <barometric_pressure>
    DHT <dht>
+   SGP30 <sgp30>
 
 ======================  ======================  ======================
 `SHT30`_                `Barometric Pressure`_  `Ambient light`_
