@@ -6,7 +6,7 @@ HOME
    :caption: Boards:
 
    D1 <d1/index>
-   D1 mini Shileds <d1_mini_shiled/index>
+   D1 mini Shields <d1_mini_shield/index>
    D32 <d32/index>
    W600 <w600/index>
 
@@ -27,7 +27,7 @@ Boards
 --------------------
 
 =================== =================== ===================
-`D1`_               `D32`_              `D1 mini shileds`_
+`D1`_               `D32`_              `D1 mini shields`_
  |D1_MINI_IMG|_     |D32_PRO_IMG|_      |SHT30_IMG|_  
 `W600`_
 |W600_PICO_IMG|_
@@ -41,18 +41,13 @@ Boards
 .. |D32_PRO_IMG| image:: ./_static/boards/d32_pro_v2.0.0_1_16x16.jpg
 .. _D32_PRO_IMG: ./d32/index.html
 
-.. _D1 mini Shileds: ./d1_mini_shiled/index.html
+.. _D1 mini Shields: ./d1_mini_shield/index.html
 .. |SHT30_IMG| image:: ./_static/d1_shields/sht30_v2.1.0_1_16x16.jpg
-.. _SHT30_IMG: ./d1_mini_shiled/index.html
+.. _SHT30_IMG: ./d1_mini_shield/index.html
 
 .. _W600: ./w600/index.html
 .. |W600_PICO_IMG| image:: ./_static/boards/w600_pico_v1.0.0_1_16x16.jpg
 .. _W600_PICO_IMG: ./w600/index.html
 
-wiki
--------------------
 
-  * `wiki`_ 
-
-.. _wiki: https://wiki.wemos.cc
 

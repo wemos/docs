@@ -1,4 +1,4 @@
-D1 mini Shileds
+D1 mini Shields
 ==================
 
 
