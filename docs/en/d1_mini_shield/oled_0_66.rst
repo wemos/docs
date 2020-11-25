@@ -14,7 +14,7 @@ OLED 0.66 Shield
 64×48 pixels (0.66” Across) OLED Shield with 2x I2C Button
 `[Buy it]`_
 
-.. _[Buy it]: http://www.aliexpress.com/store/product/OLED-Shield-for-WeMos-D1-mini-0-66-inch-64X48-IIC-I2C/1331105_32627787079.html
+.. _[Buy it]: https://www.aliexpress.com/item/1005001804136025.html
 
 Features
 ---------------------
