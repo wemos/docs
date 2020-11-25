@@ -14,7 +14,7 @@ OLED 0.96 Shield
 128x64 pixels (0.96” Across) OLED Shield
 `[Buy it]`_
 
-.. _[Buy it]: http://www.aliexpress.com/store/product/OLED-Shield-for-WeMos-D1-mini-0-66-inch-64X48-IIC-I2C/1331105_32627787079.html
+.. _[Buy it]: https://www.aliexpress.com/item/32627787079.html
 
 Features
 ---------------------
