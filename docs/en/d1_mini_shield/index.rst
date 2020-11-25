@@ -14,6 +14,7 @@ Display&Interactive Shields
    TFT 2.4 <tft_2_4>
    ePaper 2.13 <epd_2_13>
    OLED 0.66 <oled_0_66>
+   OLED 0.96 <oled_0_96>
    RGB LED <rgb_led>
    Buzzer <buzzer>
    1-button <1_button>
