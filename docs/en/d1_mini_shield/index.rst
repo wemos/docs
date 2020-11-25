@@ -28,8 +28,13 @@ Display&Interactive Shields
 |RGB_LED_IMG|_        |BUZZER_IMG|_         |1_BUTTON_IMG|_ 
 `Micro SD`_           `Matrix LED`_         `TFT-1.4`_
 |MICRO_SD_IMG|_       |MATRIX_LED_IMG|_     |TFT_1.4_IMG|_
+`OLED 0.96`_           
+|OLED_0.96_IMG|_        
 ====================  ====================  ====================
 
+.. _OLED 0.96: ./oled_0_96.html
+.. |OLED_0.96_IMG| image:: ../_static/d1_shields/oled_0.96_v1.0.0_1_16x16.jpg
+.. _OLED_0.96_IMG: ./oled_0_96.html
 
 .. _Micro SD: ./micro_sd.html
 .. |MICRO_SD_IMG| image:: ../_static/d1_shields/sd_v1.2.0_1_16x16.jpg
