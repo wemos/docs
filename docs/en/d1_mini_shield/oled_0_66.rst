@@ -14,7 +14,7 @@ OLED 0.66 Shield
 64×48 pixels (0.66” Across) OLED Shield with 2x I2C Button
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/item/1005001804136025.html
+.. _[Buy it]: https://www.aliexpress.com/item/32627787079.html
 
 Features
 ---------------------

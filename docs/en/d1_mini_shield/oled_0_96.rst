@@ -14,7 +14,8 @@ OLED 0.96 Shield
 128x64 pixels (0.96” Across) OLED Shield
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/item/32627787079.html
+.. _[Buy it]: https://www.aliexpress.com/item/1005001804136025.html
+
 
 Features
 ---------------------
