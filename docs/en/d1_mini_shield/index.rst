@@ -14,6 +14,7 @@ Display&Interactive Shields
    TFT 2.4 <tft_2_4>
    ePaper 2.13 <epd_2_13>
    Tri-Color ePaper 2.13 <epd_2_13_3>
+   OLED 0.49 <oled_0_49>
    OLED 0.66 <oled_0_66>
    OLED 0.96 <oled_0_96>
    RGB LED <rgb_led>
@@ -23,17 +24,21 @@ Display&Interactive Shields
    Matrix LED <matrix_led>
    TFT 1.4 <tft_1_4>
 
-====================  ===========================  ====================
-`TFT-2.4`_            `ePaper 2.13`_               `OLED 0.66`_
-|TFT_2.4_IMG|_        |EPD_2.13_IMG|_              |OLED_0.66_IMG|_
-`RGB LED`_            `Buzzer`_                    `1-BUTTON`_
-|RGB_LED_IMG|_        |BUZZER_IMG|_                |1_BUTTON_IMG|_ 
-`Micro SD`_           `Matrix LED`_                `TFT-1.4`_
-|MICRO_SD_IMG|_       |MATRIX_LED_IMG|_            |TFT_1.4_IMG|_
-`OLED 0.96`_          `Tri-Color ePaper 2.13`_   
-|OLED_0.96_IMG|_      |EPD_2.13_3_IMG|_    
-====================  ===========================  ====================
+===========================  ===========================  ===========================
+`TFT-2.4`_                   `ePaper 2.13`_               `OLED 0.66`_
+|TFT_2.4_IMG|_               |EPD_2.13_IMG|_              |OLED_0.66_IMG|_
+`RGB LED`_                   `Buzzer`_                    `1-BUTTON`_
+|RGB_LED_IMG|_               |BUZZER_IMG|_                |1_BUTTON_IMG|_ 
+`Micro SD`_                  `Matrix LED`_                `TFT-1.4`_
+|MICRO_SD_IMG|_              |MATRIX_LED_IMG|_            |TFT_1.4_IMG|_
+`OLED 0.96`_                 `Tri-Color ePaper 2.13`_     `OLED 0.49`_ 
+|OLED_0.96_IMG|_             |EPD_2.13_3_IMG|_            |OLED_0.49_IMG|_    
+===========================  ===========================  ===========================
 
+
+.. _OLED 0.49: ./oled_0_49.html
+.. |OLED_0.49_IMG| image:: ../_static/d1_shields/oled_0.49_v1.0.0_16x16_1.jpg
+.. _OLED_0.49_IMG: ./oled_0_49.html
 
 .. _Tri-Color ePaper 2.13: ./epd_2_13_3.html
 .. |EPD_2.13_3_IMG| image:: ../_static/d1_shields/epd_2.13_3_v1.0.0_1_16x16.jpg

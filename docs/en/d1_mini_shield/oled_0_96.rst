@@ -20,7 +20,7 @@ OLED 0.96 Shield
 Features
 ---------------------
 
-  * **Screen Size:** 128x64 pixels (0.66” Across)
+  * **Screen Size:** 128x64 pixels (0.96” Across)
   * **Operating Voltage:** 3.3V
   * **Driver IC:** SSD1306 (I2C Address: 0x3D or 0x3C)
 
