@@ -14,7 +14,7 @@ Tri-Color ePaper 2.13 Shield
 2.13" Tri-Color eInk / ePaper  212x104 Display Shield with UC8151D Driver
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/store/product/ePaper-2-13-Shield-V1-0-0-for-LOLIN-WEMOS-D1-mini-D32-2-13-inch/1331105_32981318996.html
+.. _[Buy it]: https://www.aliexpress.com/item/1005002286398549.html
 
 Features
 ---------------------
