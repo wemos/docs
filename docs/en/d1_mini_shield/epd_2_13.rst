@@ -39,13 +39,14 @@ Documents
 Arduino
 ------------------------
 
-  * Setup latest `LOLIN_EPD`_ and `Adafruit_GFX`_ Library.
+  * Setup latest `LOLIN_EPD`_ , `Adafruit_GFX`_ and `Adafruit_BusIO`_ Library.
   * `Arduino Examples`_
 
 
 .. _LOLIN_EPD: https://github.com/wemos/LOLIN_EPD_Library
 .. _Adafruit_GFX: https://github.com/adafruit/Adafruit-GFX-Library
 .. _Arduino Examples: https://github.com/wemos/LOLIN_EPD_Library/tree/master/examples
+.. _Adafruit_BusIO: https://github.com/adafruit/Adafruit_BusIO
 
 
    
