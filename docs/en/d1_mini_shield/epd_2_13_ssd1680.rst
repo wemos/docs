@@ -1,27 +1,27 @@
-Tri-Color ePaper 2.13 Shield
-==============================
+Tri-Color ePaper 2.13 (SSD1680) Shield
+========================================
 
 ==================  ==================  
  |TOP_IMG|_           |BOTTOM_IMG|_  
 ==================  ==================
 
-.. |TOP_IMG| image:: ../_static/d1_shields/epd_2.13_3_v1.0.0_1_16x16.jpg
-.. _TOP_IMG: ../_static/d1_shields/epd_2.13_3_v1.0.0_1_16x16.jpg
+.. |TOP_IMG| image:: ../_static/d1_shields/epd_2.13_ssd1680_v1.0.0_1_16x16.jpg
+.. _TOP_IMG: ../_static/d1_shields/epd_2.13_ssd1680_v1.0.0_1_16x16.jpg
 
 .. |BOTTOM_IMG| image:: ../_static/d1_shields/epd_2.13_v1.0.0_2_16x16.jpg
 .. _BOTTOM_IMG: ../_static/d1_shields/epd_2.13_v1.0.0_2_16x16.jpg
 
-2.13" Tri-Color eInk / ePaper  212x104 Display Shield with UC8151D Driver
+2.13" Tri-Color eInk / ePaper  212x104 Display Shield with SSD1680 Driver
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/item/1005002286398549.html
+.. _[Buy it]: https://www.aliexpress.com/item/1005003020667903.html
 
 Features
 ---------------------
 
   * 2.13" diagonal Tri-Color (red/black/white) ePaper/eInk display
-  * 212x104 pixels
-  * Driver IC: UC8151D
+  * 250x122 pixels
+  * Driver IC: SSD1680
   * Compatible with D1 mini, D1 mini Pro, D32 Pro.
 
 
