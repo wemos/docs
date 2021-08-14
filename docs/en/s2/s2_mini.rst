@@ -18,7 +18,7 @@ A mini wifi boards based ESP32-S2FN4R2.
 
 Features
 ------------------
-
+  * based ESP32-S2FN4R2
   * WIFI
   * 4MB Flash
   * 2MB PSRAM 
