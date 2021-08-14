@@ -1,4 +1,4 @@
-Get started with MicroPython [D32 series]
+Get started with MicroPython [S2 series]
 =======================================================
 
 Flash MicroPython firmware
