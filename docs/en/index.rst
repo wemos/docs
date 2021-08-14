@@ -8,6 +8,7 @@ HOME
    D1 <d1/index>
    D1 mini Shields <d1_mini_shield/index>
    D32 <d32/index>
+   S2 <s2/index>
    W600 <w600/index>
 
 .. toctree::
@@ -29,9 +30,14 @@ Boards
 =================== =================== ===================
 `D1`_               `D32`_              `D1 mini shields`_
  |D1_MINI_IMG|_     |D32_PRO_IMG|_      |SHT30_IMG|_  
-`W600`_
-|W600_PICO_IMG|_
+`W600`_             `S2`_  
+|W600_PICO_IMG|_    |S2_MINI_IMG|_  
 =================== =================== ===================
+
+.. _S2: ./s2/index.html
+.. |S2_MINI_IMG| image:: ./_static/boards/s2_mini_v1.0.0_1_16x16.jpg
+.. _S2_MINI_IMG: ./s2/index.html
+
 
 .. _D1: ./d1/index.html
 .. |D1_MINI_IMG| image:: ./_static/boards/d1_mini_v3.1.0_1_16x16.jpg
