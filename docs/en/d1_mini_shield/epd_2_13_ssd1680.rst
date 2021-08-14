@@ -11,7 +11,7 @@ Tri-Color ePaper 2.13 (SSD1680) Shield
 .. |BOTTOM_IMG| image:: ../_static/d1_shields/epd_2.13_v1.0.0_2_16x16.jpg
 .. _BOTTOM_IMG: ../_static/d1_shields/epd_2.13_v1.0.0_2_16x16.jpg
 
-2.13" Tri-Color eInk / ePaper  212x104 Display Shield with SSD1680 Driver
+2.13" Tri-Color eInk / ePaper  250x122 Display Shield with SSD1680 Driver
 `[Buy it]`_
 
 .. _[Buy it]: https://www.aliexpress.com/item/1005003020667903.html
