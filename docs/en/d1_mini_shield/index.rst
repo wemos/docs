@@ -1,10 +1,10 @@
-D1 mini Shields
+D1 Mini Shields
 ==================
 
 
 
 
-Display&Interactive Shields
+Display & Interactive Shields
 ----------------------------------
 
 .. toctree::
