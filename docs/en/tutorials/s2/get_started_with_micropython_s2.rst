@@ -20,9 +20,10 @@ Requirements
 
       pip install esptool
       
-Firmware
+S2 MINI Firmware
 ---------------
-  * `<s2_mini_micropython_v1.16-200-g1b87e1793.bin>`_
+  * `s2_mini_micropython_v1.16-200-g1b87e1793.bin <../../_static/files/s2_mini_firmware/s2_mini_micropython_v1.16-200-g1b87e1793.bin>`_
+  
 
 
 

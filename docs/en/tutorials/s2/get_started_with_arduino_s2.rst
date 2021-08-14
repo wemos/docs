@@ -13,8 +13,8 @@ Installing Hardware package
 
 Configure Board
 -------------------
-.. image:: ./s2_arduino_config.jpg
-   :target: ./s2_arduino_config.jpg
+.. image:: ../../_static/files/s2_arduino_config.jpg
+   :target: ../../_static/files/s2_arduino_config.jpg
 
 
 Documentation
