@@ -14,7 +14,7 @@ S2 mini
 A mini wifi boards based ESP32-S2FN4R2. 
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/item/4000314757449.html
+.. _[Buy it]: https://www.aliexpress.com/item/1005003145192016.html
 
 Features
 ------------------

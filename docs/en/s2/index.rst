@@ -1,4 +1,4 @@
-W600 Boards
+S2 Boards
 ===================
 
 .. toctree::
