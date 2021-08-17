@@ -18,15 +18,15 @@ A mini wifi boards based ESP32-S2FN4R2.
 
 Features
 ------------------
-  * based ESP32-S2FN4R2 WIFI IC
-  * Type-C USB
-  * 4MB Flash
-  * 2MB PSRAM 
-  * 27x IO
-  * ADC, DAC, I2C, SPI, UART, USB OTG
-  * Compatible with LOLIN D1 mini shields 
-  * Compatible with MicroPython, Arduino and ESP-IDF
-  * Default firmware: MicroPython
+* based ESP32-S2FN4R2 WIFI IC
+* Type-C USB
+* 4MB Flash
+* 2MB PSRAM 
+* 27x IO
+* ADC, DAC, I2C, SPI, UART, USB OTG
+* Compatible with LOLIN D1 mini shields 
+* Compatible with MicroPython, Arduino and ESP-IDF
+* Default firmware: MicroPython
 
 Tutorials
 ----------------------
@@ -37,8 +37,9 @@ Tutorials
 Documentation
 ----------------------
 
-  * `Schematic V1.0.0[PDF] <../_static/files/sch_s2_mini_v1.0.0.pdf>`_
-  * `Dimension V1.0.0[PDF] <../_static/files/dim_s2_mini_v1.0.0.pdf>`_
+* `Schematic V1.0.0[PDF] <../_static/files/sch_s2_mini_v1.0.0.pdf>`_
+* `Dimension V1.0.0[PDF] <../_static/files/dim_s2_mini_v1.0.0.pdf>`_
+* `ESP32-S2 Datasheet <https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf>`_
 
 
 Technical specs
