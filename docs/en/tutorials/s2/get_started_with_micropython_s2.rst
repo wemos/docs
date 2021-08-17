@@ -29,7 +29,12 @@ S2 MINI Firmware
 
 Flash firmware
 -------------------
-* Make S2 boards into flash mode.
+* Make S2 boards into **Device Firmware Upgrade (DFU)** mode.
+
+  * Hold on **Button 0**
+  * Press **Button Reset**
+  * Release **Button 0** When you hear the prompt tone on usb reconnection
+
 * Flash using esptool.py
 
   .. highlight:: bash
