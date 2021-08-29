@@ -18,7 +18,7 @@ import sys
 # -- Project information -----------------------------------------------------
 
 project = 'WEMOS'
-copyright = '2019, wemos.cc'
+copyright = '2021, wemos.cc'
 author = 'wemos.cc'
 
 
