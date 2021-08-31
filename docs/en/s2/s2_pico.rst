@@ -14,7 +14,7 @@ S2 Pico
 A mini wifi boards with OLED based ESP32-S2FN4R2. 
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/item/1005003145192016.html
+.. _[Buy it]: https://www.aliexpress.com/item/1005003215673294.html
 
 Features
 ------------------
