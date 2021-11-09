@@ -40,7 +40,7 @@ Boards
 
 
 .. _D1: ./d1/index.html
-.. |D1_MINI_IMG| image:: ./_static/boards/d1_mini_v3.1.0_1_16x16.jpg
+.. |D1_MINI_IMG| image:: ./_static/boards/d1_mini_v4.0.0_1_16x16.png
 .. _D1_MINI_IMG: ./d1/index.html
 
 .. _D32: ./d32/index.html
