@@ -19,7 +19,7 @@ HR8833 Motor                   0x30*
 AT8870 Motor                   0x30*
 ============================== ===================================
 
-\*  customizable I2C Address (can be set from 0x08 to 0x77) 
+\*  customizable I2C Address (0x08 to 0x77) 
 
 
 
