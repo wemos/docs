@@ -6,6 +6,7 @@ Tutorials
 
    MicroPython Tutorials <index_micropython>
    Arduino Tutorials <index_arduino>
+   Others <index_others>
    
 
    
