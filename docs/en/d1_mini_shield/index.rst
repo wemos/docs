@@ -173,14 +173,19 @@ Control Shields
    IR Controller <ir>
    Motor <motor>
    HR8833 Motor <hr8833_motor>
+   AT8870 Motor <at8870_motor>
    
 
 ====================  ====================  ====================
 `Relay`_              `IR Controller`_      `Motor`_
 |RELAY_IMG|_          |IR_IMG|_             |MOTOR_IMG|_
-`HR8833 Motor`_ 
-|HR8833_IMG|_
+`HR8833 Motor`_       `AT8870 Motor`_ 
+|HR8833_IMG|_         |AT8870_IMG|_
 ====================  ====================  ====================
+
+.. _AT8870 Motor: ./at8870_motor.html
+.. |AT8870_IMG| image:: ../_static/d1_shields/at8870_v1.0.0_1_16x16.jpg
+.. _AT8870_IMG: ./at8870_motor.html
 
 .. _HR8833 Motor: ./hr8833_motor.html
 .. |HR8833_IMG| image:: ../_static/d1_shields/hr8833_v1.0.0_1_16x16.jpg
