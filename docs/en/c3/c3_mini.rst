@@ -18,7 +18,7 @@ A mini wifi & Bluetooth5 (LE) boards based ESP32-C3FH4.
 
 Features
 ------------------
-* based ESP32-S2FN4R2 WIFI & Bluetooth LE RISC-V Single-Core CPU
+* based ESP32-C3 WIFI & Bluetooth LE RISC-V Single-Core CPU
 * Type-C USB
 * 4MB Flash
 * 12x IO
