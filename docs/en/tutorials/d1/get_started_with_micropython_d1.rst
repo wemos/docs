@@ -23,7 +23,7 @@ Requirements
   * `Micropython firmware <https://micropython.org/download#esp8266>`_ (esp8266)
 
 Additional Requirement for Mac OS X <10.14 (Mojave)
-************************
+***********************************************************
 
   * :doc:`../../ch340_driver`
 
