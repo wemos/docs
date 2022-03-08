@@ -14,7 +14,7 @@ C3 mini
 A mini wifi & Bluetooth5 (LE) boards based ESP32-C3FH4. 
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/item/1005003145192016.html
+.. _[Buy it]: https://www.aliexpress.com/item/1005004005736554.html
 
 Features
 ------------------
