@@ -8,7 +8,13 @@ Requirements
 
 Installing Hardware package
 -----------------------------
-  * `lastest esp32 package <https://github.com/espressif/arduino-esp32>`_ 
+  * `esp32 arduino package <https://github.com/espressif/arduino-esp32>`_ 
+
+
+Configure Board
+-------------------
+  * Use lastest `esp32 arduino package <https://github.com/espressif/arduino-esp32>`_ 
+  * Choose board **LOLIN C3 MINI**
 
 
 Upload Code

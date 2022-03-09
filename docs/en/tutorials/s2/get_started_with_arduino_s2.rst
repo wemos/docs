@@ -8,14 +8,13 @@ Requirements
 
 Installing Hardware package
 -----------------------------
-  * `esp32 package <https://github.com/espressif/arduino-esp32>`_ 
+  * `esp32 arduino package <https://github.com/espressif/arduino-esp32>`_ 
 
 
 Configure Board
 -------------------
-.. image:: ../../_static/files/s2_arduino_config.jpg
-   :target: ../../_static/files/s2_arduino_config.jpg
-
+  * Use lastest `esp32 arduino package <https://github.com/espressif/arduino-esp32>`_ 
+  * Choose board **LOLIN S2 MINI** or **LOLIN S2 PICO**
 
 Upload Code
 -----------------
