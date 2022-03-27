@@ -20,10 +20,10 @@ Requirements
 
       pip3 install esptool
       
-C3 MINI Firmware
+C3 Firmware
 ------------------
-* `c3_mini_micropython_v1.16.bin <../../_static/files/c3_mini_firmware/c3_mini_micropython_v1.16.bin>`_
-  
+
+* `C3 Mini Firmware <https://micropython.org/download/LOLIN_C3_MINI/>`_
 
 
 
