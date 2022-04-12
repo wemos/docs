@@ -40,6 +40,14 @@ Documentation
 * `Dimension V1.0.0[PDF] <../_static/files/dim_c3_mini_v1.0.0.pdf>`_
 * `ESP32-C3 Datasheet <https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf>`_
 
+About WIFI
+----------------------
+You need set WIFI Tx Power to 8.5dBm to use WIFI.
+
+More:
+
+* `Arduino <../tutorials/c3/get_started_with_arduino_c3.html#wifi>`_
+
 
 Technical specs
 ----------------------
