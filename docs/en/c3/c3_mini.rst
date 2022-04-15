@@ -44,10 +44,9 @@ About WIFI
 ----------------------
 You need set WIFI Tx Power to 8.5dBm to use WIFI.
 
-More:
 
 * `Arduino <../tutorials/c3/get_started_with_arduino_c3.html#wifi>`_
-
+* `MicroPython <../tutorials/c3/get_started_with_micropython_c3.html#wifi>`_
 
 Technical specs
 ----------------------
