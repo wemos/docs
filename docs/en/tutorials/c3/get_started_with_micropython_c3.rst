@@ -25,7 +25,7 @@ C3 Firmware
 
 .. * `C3 Mini Firmware <https://micropython.org/download/LOLIN_C3_MINI/>`_
 
-* `C3 Mini Firmware <https://github.com/wemos/micropython/releases/download/untagged-760cc64a48d672e27e73/firmware.bin>`_
+* `C3 Mini Firmware <https://github.com/wemos/micropython/releases/download/v1.16/firmware.bin>`_
 
 
 Flash firmware
