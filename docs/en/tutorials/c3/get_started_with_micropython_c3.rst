@@ -5,8 +5,8 @@ Flash MicroPython firmware
 ----------------------------
 
 The boards were already flashed with MicroPython firmware.
-If they lost the firmware or you need the latest version, 
-you can flash MicroPython firmware by yourself.
+If they lost the firmware or if you need the latest version, 
+you can flash MicroPython firmware yourself.
 
 Requirements
 ---------------
