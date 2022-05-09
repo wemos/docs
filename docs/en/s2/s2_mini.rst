@@ -25,7 +25,7 @@ Features
 * 27x IO
 * ADC, DAC, I2C, SPI, UART, USB OTG
 * Compatible with LOLIN D1 mini shields 
-* Compatible with MicroPython, Arduino and ESP-IDF
+* Compatible with CircuitPython, MicroPython, Arduino and ESP-IDF
 * Default firmware: MicroPython
 
 Tutorials
