@@ -25,7 +25,7 @@ Features
 * 2MB PSRAM 
 * 21x IO
 * ADC, DAC, I2C, SPI, UART, USB OTG
-* Compatible with MicroPython, Arduino and ESP-IDF
+* Compatible with CircuitPython, MicroPython, Arduino and ESP-IDF
 * Default firmware: MicroPython
 
 Tutorials
