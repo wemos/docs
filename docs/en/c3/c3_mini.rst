@@ -1,8 +1,8 @@
 C3 mini
 ================
 
-==================  ==================  
- |TOP_IMG|_           |BOTTOM_IMG|_  
+==================  ==================
+ |TOP_IMG|_           |BOTTOM_IMG|_
 ==================  ==================
 
 .. |TOP_IMG| image:: ../_static/boards/c3_mini_v1.0.0_1_16x16.jpg
@@ -11,7 +11,7 @@ C3 mini
 .. |BOTTOM_IMG| image:: ../_static/boards/c3_mini_v1.0.0_2_16x16.jpg
 .. _BOTTOM_IMG: ../_static/boards/c3_mini_v1.0.0_2_16x16.jpg
 
-A mini wifi & Bluetooth5 (LE) boards based ESP32-C3FH4. 
+A mini wifi & Bluetooth5 (LE) boards based ESP32-C3FH4.
 `[Buy it]`_
 
 .. _[Buy it]: https://www.aliexpress.com/item/1005004005736554.html
@@ -23,8 +23,8 @@ Features
 * 4MB Flash
 * 12x IO
 * ADC, I2C, SPI, UART
-* Compatible with LOLIN D1 mini shields 
-* Compatible with MicroPython, Arduino and ESP-IDF
+* Compatible with LOLIN D1 mini shields
+* Compatible with Arduino, CircuitPython, ESP-IDF, and MicroPython
 * Default firmware: MicroPython
 
 Tutorials
@@ -70,4 +70,3 @@ Pin
 
 .. image:: ../_static/boards/c3_mini_v1.0.0_4_16x9.jpg
    :target: ../_static/boards/c3_mini_v1.0.0_4_16x9.jpg
-
