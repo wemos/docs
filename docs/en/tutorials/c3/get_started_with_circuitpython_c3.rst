@@ -62,7 +62,3 @@ Use **sta_if.config(txpower=8.5)** after **sta_if.active(True)**
 
   wifi.radio.tx_power = 8.5
   wifi.radio.connect("wifi_ssid", "wifi_password")
-
-Quick reference
--------------------------
-* `Quick reference for the ESP32 <https://docs.micropython.org/en/latest/esp32/quickref.html>`_
