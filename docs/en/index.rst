@@ -11,6 +11,7 @@ HOME
    S2 <s2/index>
    C3 <c3/index>
    W600 <w600/index>
+   S3 <s3/index>
 
 .. toctree::
    :hidden:
@@ -33,7 +34,13 @@ Boards
 |D1_MINI_IMG|_      |D32_PRO_IMG|_      |SHT30_IMG|_  
 `S2`_               `C3`_               `W600`_  
 |S2_MINI_IMG|_      |C3_MINI_IMG|_      |W600_PICO_IMG|_ 
+`S3`_ 
+|S3_IMG|_  
 =================== =================== ===================
+
+.. _S3: ./s3/index.html
+.. |S3_IMG| image:: ./_static/boards/s3_v1.0.0_1_16x16.jpg
+.. _S3_IMG: ./s3/index.html
 
 .. _C3: ./c3/index.html
 .. |C3_MINI_IMG| image:: ./_static/boards/c3_mini_v1.0.0_1_16x16.jpg
