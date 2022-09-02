@@ -25,7 +25,7 @@ Features
 * 2MB PSRAM 
 * 21x IO
 * ADC, DAC, I2C, SPI, UART, USB OTG
-* Compatible with MicroPython, Arduino and ESP-IDF
+* Compatible with MicroPython, Arduino, CircuitPython and ESP-IDF
 * Default firmware: MicroPython
 
 Tutorials
@@ -33,6 +33,7 @@ Tutorials
 
 * :doc:`../tutorials/s2/get_started_with_micropython_s2`
 * :doc:`../tutorials/s2/get_started_with_arduino_s2`
+* :doc:`../tutorials/s2/get_started_with_circuitpython_s2`
 
 Documentation
 ----------------------

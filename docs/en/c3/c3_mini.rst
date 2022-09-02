@@ -24,7 +24,7 @@ Features
 * 12x IO
 * ADC, I2C, SPI, UART
 * Compatible with LOLIN D1 mini shields 
-* Compatible with MicroPython, Arduino and ESP-IDF
+* Compatible with MicroPython, Arduino, CircuitPython and ESP-IDF
 * Default firmware: MicroPython
 
 Tutorials
@@ -32,6 +32,7 @@ Tutorials
 
 * :doc:`../tutorials/c3/get_started_with_micropython_c3`
 * :doc:`../tutorials/c3/get_started_with_arduino_c3`
+* :doc:`../tutorials/c3/get_started_with_circuitpython_c3`
 
 Documentation
 ----------------------
