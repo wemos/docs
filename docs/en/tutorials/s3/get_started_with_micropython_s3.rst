@@ -24,12 +24,11 @@ Requirements
 S3 Firmware
 ------------------
 
-* `S3 Firmware <https://micropython.org/download/>`_
+* `Firmware <https://github.com/wemos/micropython/releases>`_
   
 
-
-
-* Flash using esptool.py
+Flash using esptool.py
+--------------------------
 
   .. highlight:: bash
 

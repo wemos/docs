@@ -23,8 +23,8 @@ Requirements
 S2 Firmware
 ------------------
 
-* `S2 Mini Firmware <https://micropython.org/download/LOLIN_S2_MINI/>`_
-* `S2 Pico Firmware <https://micropython.org/download/LOLIN_S2_PICO/>`_
+* `Firmware <https://github.com/wemos/micropython/releases>`_
+
   
 
 Flash firmware
