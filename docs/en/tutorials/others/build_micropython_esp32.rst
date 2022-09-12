@@ -29,7 +29,7 @@ Fetch the Code to Build
 
 ::
 
-   git clone https://github.com/micropython/micropython.git
+   git clone https://github.com/wemos/micropython.git
    cd micropython
 
 
