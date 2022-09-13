@@ -43,7 +43,7 @@ Boards
 .. _S3_IMG: ./s3/index.html
 
 .. _C3: ./c3/index.html
-.. |C3_MINI_IMG| image:: ./_static/boards/c3_mini_v1.0.0_1_16x16.jpg
+.. |C3_MINI_IMG| image:: ./_static/boards/c3_mini_v2.1.0_1_16x16.jpg
 .. _C3_MINI_IMG: ./c3/index.html
 
 .. _S2: ./s2/index.html
