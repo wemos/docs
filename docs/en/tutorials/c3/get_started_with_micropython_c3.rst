@@ -50,27 +50,6 @@ Flash firmware
   In Windows, **PORT_NAME** is like COM4.
 
 
-WIFI
-------------------
-You need set WIFI Tx Power to 8.5dBm to use WIFI.
-
-Use **sta_if.config(txpower=8.5)** after **sta_if.active(True)**
-
-.. code-block:: python
-  
-  def do_connect():
-    import network
-    sta_if = network.WLAN(network.STA_IF)
-    
-    if not sta_if.isconnected():
-        print('connecting to network...')
-        sta_if.active(True)
-        sta_if.config(txpower=8.5) 
-        sta_if.connect('ssid', 'passwd')
-        while not sta_if.isconnected():
-            pass
-    print('network config:', sta_if.ifconfig())
-
 Quick reference
 -------------------------
 * `Quick reference for the ESP32 <https://docs.micropython.org/en/latest/esp32/quickref.html>`_
