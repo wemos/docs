@@ -68,6 +68,6 @@ Pin
 
 Version
 ----------------
-* `V2.1.0 <c3_mini.html>`_  *lastest version*
-* `V1.0.0 <c3_mini_v1_0_0.html>`_
+* `V2.1.0 <./c3_mini.html>`_  *lastest version*
+* `V1.0.0 <./c3_mini_1_0_0.html>`_
 
