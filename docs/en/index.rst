@@ -39,7 +39,7 @@ Boards
 =================== =================== ===================
 
 .. _S3: ./s3/index.html
-.. |S3_IMG| image:: ./_static/boards/s3_v1.0.0_1_16x16.jpg
+.. |S3_IMG| image:: ./_static/boards/s3_pro_v1.0.0_1_16x16.jpg
 .. _S3_IMG: ./s3/index.html
 
 .. _C3: ./c3/index.html
