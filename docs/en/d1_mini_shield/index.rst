@@ -18,6 +18,7 @@ Display & Interactive Shields
    OLED 0.49 <oled_0_49>
    OLED 0.66 <oled_0_66>
    OLED 0.96 <oled_0_96>
+   8X8 RGB <8x8_rgb>
    RGB LED <rgb_led>
    Buzzer <buzzer>
    1-button <1_button>
@@ -34,9 +35,15 @@ Display & Interactive Shields
 |MICRO_SD_IMG|_              |MATRIX_LED_IMG|_            |TFT_1.4_IMG|_
 `OLED 0.96`_                 `Tri-Color ePaper 2.13`_     `OLED 0.49`_ 
 |OLED_0.96_IMG|_             |EPD_2.13_3_IMG|_            |OLED_0.49_IMG|_
-`ePaper 2.13(SSD1680)`_ 
-|EPD_2.13_SSD1680_IMG|_     
+`ePaper 2.13(SSD1680)`_      `8X8 RGB`_ 
+|EPD_2.13_SSD1680_IMG|_      |8x8_RGB_IMG|_ 
 ===========================  ===========================  ===========================
+
+
+.. _8X8 RGB: ./8x8_rgb.html
+.. |8x8_RGB_IMG| image:: ../_static/d1_shields/8x8_rgb_v1.0.0_1_16x16.jpg
+.. _8x8_RGB_IMG: ./8x8_rgb.html
+
 
 .. _ePaper 2.13(SSD1680): ./epd_2_13_ssd1680.html
 .. |EPD_2.13_SSD1680_IMG| image:: ../_static/d1_shields/epd_2.13_ssd1680_v1.0.0_1_16x16.jpg
