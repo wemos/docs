@@ -14,7 +14,7 @@ S3 PRO
 WiFi & Bluetooth 5 (LE) boards based ESP32-S3-WROOM-1. 
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/item/1005004643475363.html
+.. _[Buy it]: https://www.aliexpress.com/item/1005004931357085.html
 
 Features
 ------------------
