@@ -14,11 +14,13 @@ S3 MINI
 WiFi & Bluetooth 5 (LE) boards based ESP32-S3FH4R2. 
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/item/1005004931357085.html
+.. _[Buy it]: https://www.aliexpress.com/item/3256805262904443.html
 
 Features
 ------------------
-* based ESP32-S3-WROOM-1
+* based ESP32-S3FH4R2
+* 2.4 GHz Wi-Fi
+* Bluetooth LE
 * 4MB Flash
 * 2MB PSRAM
 * 27x IO
@@ -57,7 +59,7 @@ Technical specs
 +----------------------+------------+
 | Size                 | 34.3*25.4mm|
 +----------------------+------------+
-| Weight               | 4g         |
+| Weight               | 3g         |
 +----------------------+------------+
 
 Pin
