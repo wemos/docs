@@ -23,7 +23,7 @@ HOME
    :hidden:
    :caption: Links:
 
-   Online Shop <https://lolin.aliexpress.com>
+   Online Shop <https://www.aliexpress.com/store/1100907255>
 
 
 Boards
