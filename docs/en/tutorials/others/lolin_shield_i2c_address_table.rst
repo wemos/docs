@@ -1,4 +1,4 @@
-LOLIN Sheild I2C Address Table
+LOLIN Shield I2C Address Table
 ===================================
 
 .. toctree::
