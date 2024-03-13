@@ -12,13 +12,14 @@
 #
 import os
 import sys
+from datetime import datetime
 # sys.path.insert(0, os.path.abspath('.'))
 
 
 # -- Project information -----------------------------------------------------
 
 project = 'WEMOS'
-copyright = '2021, wemos.cc'
+copyright = '2021-{0}, wemos.cc'.format(datetime.now().year)
 author = 'wemos.cc'
 
 
