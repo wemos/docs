@@ -14,7 +14,7 @@
 64 (8x8) RGB LEDs (WS2812B-2020) shield.
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/item/1005004931420566.html
+.. _[Buy it]: https://www.aliexpress.com/item/3256806753401185.html
 
 Features
 ---------------------
