@@ -8,6 +8,7 @@ S3 Boards
    S3 <s3>
    S3 PRO <s3_pro>
    S3 MINI <s3_mini>
+   S3 MINI PRO <s3_mini_pro>
 
 
 
