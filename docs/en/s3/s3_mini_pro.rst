@@ -15,7 +15,7 @@ WiFi & BLE boards based ESP32-S3FH4R2 with 0.85 inch TFT Screen and IMU.
 
 `[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/item/3256805262904443.html
+.. _[Buy it]: https://www.aliexpress.com/item/3256807173247391.html
 
 Features
 ------------------
