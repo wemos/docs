@@ -5,11 +5,11 @@ S3 MINI PRO
  |TOP_IMG|_           |BOTTOM_IMG|_  
 ==================  ==================
 
-.. |TOP_IMG| image:: ../_static/boards/s3_mini_pro_v1.0.0_1_16x16.jpg
-.. _TOP_IMG: ../_static/boards/s3_mini_pro_v1.0.0_1_16x16.jpg
+.. |TOP_IMG| image:: ../_static/boards/s3_mini_pro_v1.0.0_1_16x16.png
+.. _TOP_IMG: ../_static/boards/s3_mini_pro_v1.0.0_1_16x16.png
 
-.. |BOTTOM_IMG| image:: ../_static/boards/s3_mini_pro_v1.0.0_2_16x16.jpg
-.. _BOTTOM_IMG: ../_static/boards/s3_mini_pro_v1.0.0_2_16x16.jpg
+.. |BOTTOM_IMG| image:: ../_static/boards/s3_mini_pro_v1.0.0_2_16x16.png
+.. _BOTTOM_IMG: ../_static/boards/s3_mini_pro_v1.0.0_2_16x16.png
 
 WiFi & BLE boards based ESP32-S3FH4R2 with 0.85 inch TFT Screen and IMU. 
 
