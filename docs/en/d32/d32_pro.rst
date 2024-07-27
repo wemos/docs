@@ -19,8 +19,8 @@ Features
 
   * Espressif official ESP32-WROVER module
   * Lastest ESP32 Version: REV1
-  * 16MB/4MB FLASH
-  * 4MB PSRAM 
+  * 16MB FLASH
+  * 8MB PSRAM 
   * Lithium battery interface, 500mA Max charging current
   * LOLIN I2C port
   * LOLIN TFT port
