@@ -12,9 +12,7 @@ TFT 1.4 Shield
 .. _BOTTOM_IMG: ../_static/d1_shields/tft_1.44_v1.0.0_2_16x16.jpg
 
 1.44“ inch TFT LCD shield.
-`[Buy it]`_
 
-.. _[Buy it]: https://www.aliexpress.com/store/product/TFT-1-4-Shield-V1-0-0-for-WeMos-D1-mini-1-44-inch-128X128-SPI/1331105_32848274716.html
 
 Features
 ---------------------
