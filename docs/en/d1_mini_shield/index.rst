@@ -185,13 +185,16 @@ Control Shields
    Motor <motor>
    HR8833 Motor <hr8833_motor>
    AT8870 Motor <at8870_motor>
+   DAC <dac>
    
 
 ====================  ====================  ====================
 `Relay`_              `IR Controller`_      `Motor`_
 |RELAY_IMG|_          |IR_IMG|_             |MOTOR_IMG|_
-`HR8833 Motor`_       `AT8870 Motor`_ 
-|HR8833_IMG|_         |AT8870_IMG|_
+`HR8833 Motor`_       `AT8870 Motor`_       `DAC`_ 
+|HR8833_IMG|_         |AT8870_IMG|_         |DAC_IMG|_
+`RS485`_
+|RS485_IMG|_ 
 ====================  ====================  ====================
 
 .. _AT8870 Motor: ./at8870_motor.html
@@ -213,6 +216,14 @@ Control Shields
 .. _Motor: ./motor.html
 .. |MOTOR_IMG| image:: ../_static/d1_shields/motor_v2.0.0_1_16x16.jpg
 .. _MOTOR_IMG: ./motor.html
+
+.. _DAC: ./dac.html
+.. |DAC_IMG| image:: ../_static/d1_shields/dac_v0.1_front.jpg
+.. _DAC_IMG: ./dac.html
+
+.. _RS485: ./rs485.html
+.. |RS485_IMG| image:: ../_static/d1_shields/rs485_v0.1_front.jpg
+.. _RS485_IMG: ./rs485.html
 
 
 Others
