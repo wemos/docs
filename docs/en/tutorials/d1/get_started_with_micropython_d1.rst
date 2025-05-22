@@ -41,7 +41,23 @@ Flash firmware
   Don't forget to change **PORT_NAME** and **FIRMWARE.bin**.
   
   In Linux, **PORT_NAME** is like /dev/ttyUSB0.
+
   In windows, **PORT_NAME** is like COM4.
+
+  In MacOS, **PORT_NAME** is like /dev/cu.usbserial-A506****
+
+  To find actual PORT_NAME
+  ************************
+  
+  ```bash
+  ls /dev/cu*
+  ```
+
+  We should be able to see
+
+  ```
+  /dev/cu.usbserial-A506****
+  ```
 
 
 Quick reference
