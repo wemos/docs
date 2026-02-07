@@ -16,9 +16,11 @@ D32 Boards
 ==================  ==================
 
 .. |D32_IMG| image:: ../_static/boards/d32_v1.0.0_1_16x16.jpg
+   :width: 315px
 .. _D32_IMG: ./d32.html
 
 .. |D32_PRO_IMG| image:: ../_static/boards/d32_pro_v2.0.0_1_16x16.jpg
+   :width: 315px
 .. _D32_PRO_IMG: ./d32_pro.html
 
 

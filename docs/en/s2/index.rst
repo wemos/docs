@@ -15,9 +15,11 @@ S2 Boards
 ==================  ==================
 
 .. |S2_MINI_IMG| image:: ../_static/boards/s2_mini_v1.0.0_1_16x16.jpg
+   :width: 315px
 .. _S2_MINI_IMG: ./s2_mini.html
 
 .. |S2_PICO_IMG| image:: ../_static/boards/s2_pico_v1.0.0_1_16x16.jpg
+   :width: 315px
 .. _S2_PICO_IMG: ./s2_pico.html
 
 
