@@ -17,12 +17,15 @@ D1 Boards
 =====================  ===================== 
 
 .. |D1_MINI_IMG| image:: ../_static/boards/d1_mini_v4.0.0_1_16x16.png
+   :width: 316px
 .. _D1_MINI_IMG: ./d1_mini.html
 
 .. |D1_MINI_PRO_IMG| image:: ../_static/boards/d1_mini_pro_v2.0.0_1_16x16.jpg
+   :width: 316px
 .. _D1_MINI_PRO_IMG: ./d1_mini_pro.html
 
 .. |D1_MINI_LITE_IMG| image:: ../_static/boards/d1_mini_lite_v1.0.0_1_16x16.jpg
+   :width: 316px
 .. _D1_MINI_LITE_IMG: ./d1_mini_lite.html
 
    
