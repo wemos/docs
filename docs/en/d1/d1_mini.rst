@@ -68,6 +68,18 @@ Pin
 
 .. note:: All of the IO pins run at 3.3V.
 
+Certification
+----------------------
+
+.. image:: ../_static/logo/CE.png
+   :target: ../_static/files/certification/EMC_d1_mini.pdf
+
+.. image:: ../_static/logo/EUDOC.png
+   :target: ../_static/files/certification/doc_d1_mini.pdf
+
+.. image:: ../_static/logo/ROHS.png
+   :target: ../_static/bfiles/certification/RoHS_d1_mini.pdf
+
 Version
 ----------------------
   * V4.0.0 (current)
