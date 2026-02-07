@@ -78,7 +78,7 @@ Certification
    :target: ../_static/files/certification/doc_d1_mini.pdf
 
 .. image:: ../_static/logo/ROHS.png
-   :target: ../_static/bfiles/certification/RoHS_d1_mini.pdf
+   :target: ../_static/files/certification/RoHS_d1_mini.pdf
 
 Version
 ----------------------
