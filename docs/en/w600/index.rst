@@ -14,6 +14,7 @@ W600 Boards
 ==================  ==================
 
 .. |W600_PICO_IMG| image:: ../_static/boards/w600_pico_v1.0.0_1_16x16.jpg
+   :width: 315px
 .. _W600_PICO_IMG: ./w600_pico.html
 
 
