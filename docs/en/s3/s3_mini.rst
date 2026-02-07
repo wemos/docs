@@ -68,5 +68,16 @@ Pin
 .. image:: ../_static/boards/s3_mini_v1.0.0_4_16x9.jpg
    :target: ../_static/boards/s3_mini_v1.0.0_4_16x9.jpg
 
+Certification
+----------------------
+
+.. image:: ../_static/logo/CE.png
+   :target: ../_static/files/certification/EMC_s3_mini.pdf
+
+.. image:: ../_static/logo/EUDOC.png
+   :target: ../_static/files/certification/doc_s3_mini.pdf
+
+.. image:: ../_static/logo/ROHS.png
+   :target: ../_static/files/certification/RoHS_s3_mini.pdf
 
 

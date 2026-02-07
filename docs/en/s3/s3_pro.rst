@@ -72,3 +72,15 @@ Pin
    :target: ../_static/boards/s3_pro_v1.0.0_5_16x9.jpg
 
 
+Certification
+----------------------
+
+.. image:: ../_static/logo/CE.png
+   :target: ../_static/files/certification/EMC_s3_pro.pdf
+
+.. image:: ../_static/logo/EUDOC.png
+   :target: ../_static/files/certification/doc_s3_pro.pdf
+
+.. image:: ../_static/logo/ROHS.png
+   :target: ../_static/files/certification/RoHS_s3_pro.pdf
+
