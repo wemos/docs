@@ -66,6 +66,18 @@ Pin
 .. image:: ../_static/boards/c3_mini_v2.1.0_4_16x9.png
    :target: ../_static/boards/c3_mini_v2.1.0_4_16x9.png
 
+Certification
+----------------------
+
+.. image:: ../_static/logo/CE.png
+   :target: ../_static/files/certification/EMC_c3_mini.pdf
+
+.. image:: ../_static/logo/EUDOC.png
+   :target: ../_static/files/certification/doc_c3_mini.pdf
+
+.. image:: ../_static/logo/ROHS.png
+   :target: ../_static/files/certification/RoHS_c3_mini.pdf
+
 Version
 ----------------
 * `V2.1.0 <./c3_mini.html>`_  *lastest version*
