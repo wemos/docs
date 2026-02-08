@@ -8,19 +8,19 @@ C3 Boards
    C3 mini <c3_mini>
    C3 pico <c3_pico>
 
+.. list-table:: 
+   :widths: 50 50
+   
+   * - **C3 mini**  
+     - **C3 pico**  
+   * - |C3_MINI_IMG|_ 
+     - |C3_PICO_IMG|_   
 
-
-==================  ================== 
- **C3 mini**        **C3 pico**             
- |C3_MINI_IMG|_     |C3_PICO_IMG|_            
-==================  ==================
 
 .. |C3_MINI_IMG| image:: ../_static/boards/c3_mini_v2.1.0_1_16x16.jpg
-   :width: 315px
 .. _C3_MINI_IMG: ./c3_mini.html
 
 .. |C3_PICO_IMG| image:: ../_static/boards/c3_pico_v1.0.0_1_16x16.jpg
-   :width: 315px
 .. _C3_PICO_IMG: ./c3_pico.html
 
 
