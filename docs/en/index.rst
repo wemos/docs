@@ -9,9 +9,10 @@ HOME
    D1 mini Shields <d1_mini_shield/index>
    D32 <d32/index>
    S2 <s2/index>
+   S3 <s3/index>
    C3 <c3/index>
    W600 <w600/index>
-   S3 <s3/index>
+   
 
 .. toctree::
    :hidden:
