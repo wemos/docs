@@ -11,14 +11,12 @@ D32 Pro
 .. |BOTTOM_IMG| image:: ../_static/boards/d32_pro_v2.0.0_2_16x16.jpg
 .. _BOTTOM_IMG: ../_static/boards/d32_pro_v2.0.0_2_16x16.jpg
 
-A wifi&bluetooth board based ESP32-WROVER
-`[Buy it] <https://www.aliexpress.com/store/product/LOLIN-D32-Pro-V1-0-0-wifi-bluetooth-board-based-ESP-32-esp32-Rev1-ESP32-WROVER/1331105_32883116057.html>`_
+A wifi&bluetooth board based ESP32
+`[Buy it] <https://fr.aliexpress.com/item/1005011905592977.html>`_
 
 Features
 ------------------
 
-  * Espressif official ESP32-WROVER module
-  * Lastest ESP32 Version: REV1
   * 16MB FLASH
   * 8MB PSRAM 
   * Lithium battery interface, 500mA Max charging current
