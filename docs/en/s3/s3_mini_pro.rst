@@ -24,7 +24,7 @@ Features
 * Bluetooth LE
 * 4MB Flash
 * 2MB PSRAM
-* 0.85” 128x128 LCD TFT display (GC9107/GC9A01)
+* 0.85” 128x128 LCD TFT display (ST7789 or GC9A01)
 * 6D MEMS IMU (QMI8658C)
 * 12x IO
 * 3x Button (IO0, IO47, IO48)
@@ -78,4 +78,14 @@ Pin
 MicroPython Examples
 ----------------------
 
-*  `Pixelsnake <https://github.com/CsErik2001/Lolin-S3-Mini-Pro/tree/main/pixelsnake>`_ (`@CsErik2001 <https://github.com/CsErik2001>`_)
+* `S3 MINI PRO Test (ST7789 version) <https://github.com/wemos/micropython/blob/master/ports/esp32/boards/LOLIN_S3_MINI_PRO_ST7789/modules/_s3_mini_pro_test.py>`_ 
+* `S3 MINI PRO Test (GC9A01 version) <https://github.com/wemos/micropython/blob/master/ports/esp32/boards/LOLIN_S3_MINI_PRO_GC9A01/modules/_s3_mini_pro_test.py>`_ 
+*  `Pixelsnake (GC9A01 version) <https://github.com/CsErik2001/Lolin-S3-Mini-Pro/tree/main/pixelsnake>`_ (`@CsErik2001 <https://github.com/CsErik2001>`_)
+
+
+Arduino Examples
+----------------------
+
+* Install `FastIMU Library <https://github.com/wemos/FastIMU>`_ , `TFT_eSPI library <https://github.com/wemos/TFT_eSPI>`_
+* Edit **User_Setup_Select.h** in TFT_eSPI library, comment **#include <User_Setup.h>**  and uncomment **#include <User_Setups/Setup404_LOLIN_S3_MINI_PRO.h>** (GC9A01 version)  or  **#include <User_Setups/Setup406_LOLIN_S3_MINI_PRO_ST7789.h>**  (ST7789 version)
+* `S3 MINI PRO Arduino Example <https://github.com/wemos/D1_mini_Examples/tree/master/examples/06.S3_MINI_PRO/s3_mini_pro>`_
