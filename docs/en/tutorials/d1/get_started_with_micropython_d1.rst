@@ -20,7 +20,7 @@ Requirements
 
       pip install esptool
 
-  * `Micropython firmware <https://micropython.org/download#esp8266>`_ (esp8266)
+  * `Lastest Firmware <https://github.com/wemos/micropython/releases>`_
 
 Additional Requirement for Mac OS X <10.14 (Mojave)
 ***********************************************************

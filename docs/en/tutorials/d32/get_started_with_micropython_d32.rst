@@ -21,7 +21,7 @@ Requirements
 
       pip install esptool
       
-  * `Micropython firmware <https://micropython.org/download#esp32>`_ (esp32)
+  * `Lastest Firmware <https://github.com/wemos/micropython/releases>`_
 
   .. note::
     D32 Pro cloud use Firmware with SPIRAM support
