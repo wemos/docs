@@ -45,15 +45,18 @@ Documents
 Arduino
 ------------------------
 
-  * Install `Adafruit_SSD1306_Library`_ (Add support by `@mcauser`_)
+  * Install updated Adafruit SD1306 library `Adafruit_SSD1306_WEMOS`_ (Support added by `@jpoikela`_)
+  * (or if you need the old version of the library `Adafruit_SSD1306_Library`_  by `@mcauser`_)
   * Install `LOLIN I2C Button library`_
   * `Arduino Examples`_
 
 
 .. _Adafruit_SSD1306_Library: https://github.com/mcauser/Adafruit_SSD1306/tree/esp8266-64x48
+.. _Adafruit_SSD1306_WEMOS: https://github.com/jpoikela/SSD1306_WEMOS_OLED_64x48
 .. _LOLIN I2C Button library: https://github.com/wemos/LOLIN_OLED_I2C_Button_Library
 .. _Arduino Examples: https://github.com/wemos/LOLIN_OLED_I2C_Button_Library/tree/master/examples
 .. _@mcauser: https://github.com/mcauser
+.. _@jpoikela: https://github.com/jpoikela
 
    
 
