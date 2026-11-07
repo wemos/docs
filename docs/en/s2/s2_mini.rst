@@ -11,17 +11,16 @@ S2 mini
 .. |BOTTOM_IMG| image:: ../_static/boards/s2_mini_v1.0.0_2_16x16.jpg
 .. _BOTTOM_IMG: ../_static/boards/s2_mini_v1.0.0_2_16x16.jpg
 
-A mini wifi boards based ESP32-S2FN4R2. 
+A mini wifi boards based ESP32-S2FH4. 
 `[Buy it]`_
 
 .. _[Buy it]: https://www.aliexpress.com/item/1005003145192016.html
 
 Features
 ------------------
-* based ESP32-S2FN4R2 WIFI IC
+* based ESP32-S2FH4 WIFI IC
 * Type-C USB
 * 4MB Flash
-* 2MB PSRAM 
 * 27x IO
 * ADC, DAC, I2C, SPI, UART, USB OTG
 * Compatible with LOLIN D1 mini shields 
@@ -54,8 +53,6 @@ Technical specs
 | Clock Speed          | 240MHz     |
 +----------------------+------------+
 | Flash                | 4M Bytes   |
-+----------------------+------------+
-| PSRAM                | 2M Bytes   |
 +----------------------+------------+
 | Size                 | 34.3*25.4mm|
 +----------------------+------------+
